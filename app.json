@@ -3,11 +3,11 @@
   "description": "simple deploy.",
   "env": {
     "administrador": {
-      "description": "ADMIN",
+      "description": "adddmin",
       "value": ""
     },
     "bot_token": {
-      "description": "@BOTFaATHER",
+      "description": "tokeen",
       "value": ""
     }
   },
