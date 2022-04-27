@@ -3,7 +3,7 @@
   "description": "simple deploy.",
   "env": {
     "administrador": {
-      "description": "EDUMP2101",
+      "description": "ADMINISTRADOR",
       "value": ""
     },
     "bot_token": {
