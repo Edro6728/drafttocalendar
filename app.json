@@ -1,5 +1,5 @@
 ﻿{
-  "name": "JsonForDeploy by @Edump2101",
+  "name": "JsonForDeploy by",
   "description": "simple deploy.",
   "env": {
     "administrador": {
@@ -7,7 +7,7 @@
       "value": ""
     },
     "bot_token": {
-      "description": "2c0b01283b1b67f7087a92cc81cd91f8",
+      "description": "@BOTFATHER",
       "value": ""
     }
   },
